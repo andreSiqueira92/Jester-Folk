@@ -90,12 +90,12 @@ section {
 
 @media screen and (min-width: 360px){
     body {
-        background-color: #fbec5d;
         background-image: url(assets/background-image.jpg-3.jpeg);
         background-position: center;
         background-size: cover;
     }
 }
+
 
 @media screen and (max-width:768px){
     body {
